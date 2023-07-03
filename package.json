@@ -1,0 +1,21 @@
+{
+  "name": "bogosla-theme",
+  "displayName": "bogosla-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bogosla theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bogosla theme-color-theme.json"
+      }
+    ]
+  }
+}
